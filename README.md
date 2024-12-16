@@ -35,7 +35,7 @@ To install & use any tool...
    Get the ZIP file you just downloaded and extract it from File Explorer or do it by using your archiver (Could be 7zip, WinRAR, etc..)
 
    > [!WARNING]
-   > Make sure to extract the folder inside the ZIP to your directory, do NOT unpack the files inside the folder that's been put in the ZIP or the script will NOT find the correct directories. Just extract the folder inside the ZIP to the Downloads folder, no extra folders needed nor deleted.
+   Make sure to extract the folder inside the ZIP to your directory, do NOT unpack the files inside the folder that's been put in the ZIP or the script will NOT find the correct directories. Just extract the folder inside the ZIP to the Downloads folder, no extra folders needed nor deleted.
 
 4. **Open the start file** (if needed):
 
