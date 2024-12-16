@@ -4,7 +4,7 @@ A simple, open-source repository that contains tools that help you in managing a
 
 ## Table of Contents
 - [About](#about)
-- [Tools Available](#tools)
+- [Tools Available](#tools-available)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -27,7 +27,7 @@ To install & use any tool...
 
 1. **Choose your tool and download it from the section above**
    
-   Choose the tool you want to install & use and when you found it on the [Tools Available](https://github.com/TheBatchMaster/UsefulFileTools/README.md/#tools) section, click on it and download the project.
+   Choose the tool you want to install & use and when you found it on the [Tools Available](#tools-available) section, click on it and download the project.
 
 2. **Extract the content of the tool to your directory**
 
