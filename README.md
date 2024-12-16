@@ -51,7 +51,8 @@ Contributions here are welcomed! To contribute to this archive:
 2. **Make your changes** to the project.
 3. **Submit a pull request** stating inside the description the changes made.
 
-Please make sure to not remove any warning from the program.
+> [!IMPORTANT] 
+> Please make sure to not remove any warning/notes from the program (eg: Notes that say its open-source, Notes that say it cant be used illegally, etc.)
 
 For any bugs or requests, please [open an issue](https://github.com/TheBatchMaster/UsefulFileTools/issues).
 
