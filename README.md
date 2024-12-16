@@ -1,6 +1,6 @@
 # Useful File Tools
 
-A simple, open-source repository that contains tools that help you in managing and interacting with your Windows files!
+📁💻 A simple, open-source repository that contains tools that help you in managing and interacting with your Windows files!
 
 ## Table of Contents
 - [About](#about)
